@@ -5,7 +5,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Versículo,
+    'Versículo',
     'João 3:16',
     'Deus amou tanto o mundo, que deu o seu Filho unigênito, para que não morra todo o que nele crer, mas tenha a vida eterna'
 )
