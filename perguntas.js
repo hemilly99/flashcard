@@ -1,19 +1,19 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Versículo',
+    '1 João 4:8',
+    'Quem não ama não conhece a Deus, porque Deus é amor.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Versículo,
+    'João 3:16',
+    'Deus amou tanto o mundo, que deu o seu Filho unigênito, para que não morra todo o que nele crer, mas tenha a vida eterna'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Mocidade',
+    ' Provérbios 5:18',
+    'Seja bendito o teu manancial, e alegra-te com a mulher da tua mocidade'
 )
 
 criaCartao(
