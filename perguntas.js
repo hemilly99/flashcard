@@ -21,3 +21,21 @@ criaCartao(
     'Como deixar alguém curioso?',
     'Eu conto amanhã'
 )
+
+criaCartao(
+    'Fantasma',
+    'Por que os fantasmas são péssimos para contar mentiras?',
+    'Porque são transparentes'
+)
+
+criaCartao(
+    'Plantinha',
+    'Por que a plantinha não foi atendida no hospital?',
+    'Porque só tinha médico de plantão'
+)
+
+criaCartao(
+    'Atraso',
+    'Se você está se sentindo sozinho, abandonado, achando que ninguém liga para você',
+    'Atrase um pagamento'
+)
